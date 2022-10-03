@@ -1,0 +1,38 @@
+/* regole gnerali pagina */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* regole header */
+
+header{
+
+    /* debug */
+    min-height: 600px;
+    background-color: rgb(74, 76, 237);
+}
+
+footer{
+
+    /* debug */
+    min-height: 700px;
+    background-color: darkslategrey;
+}
+
+
+/* stile delle section */
+
+.light{
+    background-color: aliceblue;
+    min-height: 500px;
+}
+
+.dark{
+    background-color: rgb(208, 208, 208);
+}
+.larger{
+    min-height: 900px;
+}
