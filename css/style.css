@@ -15,6 +15,7 @@ header{
     background-color: rgb(74, 76, 237);
 }
 
+
 footer{
 
     /* debug */
@@ -31,7 +32,7 @@ footer{
 }
 
 .dark{
-    background-color: rgb(208, 208, 208);
+    background-color: rgb(222, 221, 221);
 }
 .larger{
     min-height: 900px;
